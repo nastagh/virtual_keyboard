@@ -1,3 +1,7 @@
 node_modules/
 .vscode/
 src/
+webpack.config.js
+package-lock.json
+package.json
+.eslintrc
